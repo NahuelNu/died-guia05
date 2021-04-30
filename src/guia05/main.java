@@ -10,7 +10,7 @@ public class main {
 	public static void main(String[] args) /*throws OficioNoCoincideException*/ {
 		
 	
-	Instant ayer = Instant.ofEpochSecond(0);
+	/*Instant ayer = Instant.ofEpochSecond(0);
 	Instant hoy = Instant.ofEpochSecond(47*60*60);
 	Duration diferencia = Duration.between(ayer, hoy);
 	System.out.println(diferencia.toDays());
@@ -44,7 +44,7 @@ public class main {
 	
 	//t.prueba(1);
 	
-	
+	*/
 	
 	}
 	

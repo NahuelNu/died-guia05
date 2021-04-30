@@ -20,7 +20,7 @@ public class Trabajador {
 	}
 
 	public Trabajador() {
-	}*/
+	}
 	
 	/*public void prueba(Integer a) throws OficioNoCoincideException {
 		if(a == 1)
@@ -39,8 +39,6 @@ public class Trabajador {
 			trabajosAsignados.add(t);
 		}
 	}
-	
-
 	
 	public String getNombre() {
 		return this.nombre;
